@@ -1,0 +1,15 @@
+.card{
+	background-color:rgb(0,150,0,0.7);
+	color: white;
+	border: 5px solid green;
+	border-radius: 20px;
+	display: inline;
+	width: 375px;
+	margin: 15px;
+	font-family:  cursive;
+	
+}
+
+.card:hover{
+	transform: scale(1.1);
+}
